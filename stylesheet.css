@@ -20,7 +20,7 @@
   --fg-url: #84bffa;
   --fg-match: #2165d9;
 
-  --bg: rgba(30, 30, 30, 0.9);
+  --bg: rgba(30, 30, 30, 0.8);
   --bg-selected: rgba(150, 150, 150, 0.3);
 
   --border: #464646;
@@ -193,13 +193,19 @@ div.vimiumHUD .vimiumHUDSearchArea {
 }
 
 /* -------- HELP DIALOG -------- */
+div#vimiumHelpDialogContainer {
+  background-color: transparent !important;
+  border: none !important;
+}
+
 div#vimiumHelpDialog {
   background: var(--bg);
   backdrop-filter: blur(var(--blur));
   border: 1px solid var(--border);
-  border-radius: 5px;
+  border-radius: 15px;
   font-family: var(--font);
   font-size: var(--font-size);
+  padding: 15px 10px !important;
 }
 
 span#vimiumTitle {
