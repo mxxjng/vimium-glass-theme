@@ -35,3 +35,7 @@ Note that you may have to reload the page for the custom CSS to take effect.
 ### Heads Up Display
 
 <img width="1378" alt="screenshot-heads-up-display" src="images/HUD.png">
+
+### Help Dialog
+
+<img width="1378" alt="screenshot-help-dialog" src="images/help-dialog.png">
