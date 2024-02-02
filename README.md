@@ -26,12 +26,12 @@ Note that you may have to reload the page for the custom CSS to take effect.
 
 ### Vomnibar
 
-<img width="1378" alt="screenshot-vomnibar" src="images/vomnibar.jpg">
+<img width="1378" alt="screenshot-vomnibar" src="images/vomnibar.png">
 
 ### Link Hints
 
-<img width="1378" alt="screenshot-link-hints" src="images/link-hints.jpg">
+<img width="1378" alt="screenshot-link-hints" src="images/link-hints.png">
 
 ### Heads Up Display
 
-<img width="1378" alt="screenshot-heads-up-display" src="images/HUD.jpg">
+<img width="1378" alt="screenshot-heads-up-display" src="images/HUD.png">
